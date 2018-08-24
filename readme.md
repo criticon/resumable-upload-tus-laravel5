@@ -23,3 +23,4 @@ Set php directive max_post_size to appropriate value.
 4. Close browser tab and reopen it
 5. Repeat steps 2 and 3 picking up the same file
 6. See how quickly progress bar reaches the position it stops before browser tab was closed and keeps on moving slower
+7. See the uploaded files in the directory "storage/app/public/uploads/"
