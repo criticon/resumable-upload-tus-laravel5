@@ -14,7 +14,7 @@ mkdir storage/app/public/uploads/
 Give to user and group permissions to write-read-execute the "storage" folder,
 including subfolders.
 
-Set php directive *max_post_size* to appropriate value.
+Set php directive *post_max_size* to appropriate value.
 
 ## Usage
 
